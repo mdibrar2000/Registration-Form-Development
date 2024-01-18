@@ -6,10 +6,12 @@ PROJECT OVERVIEW
 The project aimed to exhibit expertise in front-end web development by creating a dynamic and user-friendly registration form using HTML and CSS. This hands-on exercise aims to solidify your understanding of frontend web development concepts and equip you with the skills needed to build a functional and visually appealing user registration experience.
 
 REQUIREMENTS AND FEATURES
+
 The project encompasses the following requirements and features:
 1.	Interactive Elements:
 •	Include attractive Username field, Email field, Password field and button for enhanced engagement.
 2.	Responsive Design Challenges:
+
 CHALLENGES
 1.  Cross-browser Compatibility:
 •	Ensuring consistent display and functionality across various web browsers might pose compatibility issues due to differences in rendering HTML and CSS..
