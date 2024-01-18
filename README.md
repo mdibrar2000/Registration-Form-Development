@@ -3,6 +3,7 @@
  Registration form having Username, Email and Password fields with intuitive user interface and responsive design.
 
 PROJECT OVERVIEW
+
 The project aimed to exhibit expertise in front-end web development by creating a dynamic and user-friendly registration form using HTML and CSS. This hands-on exercise aims to solidify your understanding of frontend web development concepts and equip you with the skills needed to build a functional and visually appealing user registration experience.
 
 REQUIREMENTS AND FEATURES
